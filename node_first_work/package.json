@@ -1,0 +1,16 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "Primer Proyecto de JS con Node con OB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node holamundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstProyect"
+  ],
+  "author": "Weimeru",
+  "license": "ISC"
+}
